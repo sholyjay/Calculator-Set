@@ -30,8 +30,7 @@ form .display input{
     text-align: right;
     display: 1;
     font-size: 45px;
-    box-shadow: none;
-    
+    box-shadow: none;  
 }
 
 .calculator form input{
